@@ -1,0 +1,17 @@
+# game_analysis
+Description of the project:  Analyzed the game and recommended steps to increase the revenue.
+
+Total 2 files -
+a. Presentation.
+b. Technical Appendix.
+  
+  Presentation - Summary of the whole analysis. Recommened the strategy how to improve the revenue.
+  Technical Appendix -
+    a. Explains the data model taken to analyze.
+    b. SQL queries used to explore the data, using Splunk.
+    c. Using classification model and from the above data, developed predictive model in predicting high-flyer's(who spends more money!)
+    d. Using clustering model and from the above data, observed different cluster's of players
+    d. Using Graph analyzes, identified the relationships between the groups and players in the group.
+
+
+
