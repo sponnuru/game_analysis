@@ -8,7 +8,7 @@ Total 2 files -
 Summary of the whole analysis. Recommened the strategy how to improve the revenue.
 
 
-2. Technical Appendix -
+2. Technical Appendix - (Note- Important code is also presented in the Appendix)
 
 a. Explains the data model taken to analyze.
 
